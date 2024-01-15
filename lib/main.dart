@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_gemini/google_gemini.dart';
 
-const apiKey =
-    "AIzaSyAkf6_NHYVRxmNIqiqpiS6FctQUu9d2W4Q"; // inserta tu clave de API de Gemini aquí.
+const apiKey = ""; // inserta tu clave de API de Gemini aquí.
 
 void main() {
   runApp(MaterialApp(
