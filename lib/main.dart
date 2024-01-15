@@ -28,7 +28,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          "Google Gemini",
+          "Google Gemini IA 😲",
           style: TextStyle(color: Colors.white),
         ),
         centerTitle: true,
