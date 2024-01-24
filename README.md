@@ -4,6 +4,11 @@
 
 #### Documentación oficial
 
+
+👉 https://ai.google.dev/
+
+👉 https://pub.dev/packages/flutter_gemini
+
 👉 https://makersuite.google.com/app/prompts/new_freeform
 
 👉 https://cloud.google.com/vertex-ai/docs/generative-ai/model-reference/gemini?hl=es-419#gemini-pro
